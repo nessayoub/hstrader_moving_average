@@ -19,7 +19,7 @@ This repository contains a Jupyter notebook (`moving_average.ipynb`) that demons
 
 The purpose of this notebook is to:
 
-1. Calculate the moving average of the 'close' prices in a given dataset using the `HsTrader` library.
+1. Calculate the moving average of the 'close' and 'open' prices in a given dataset using the `HsTrader` library.
 2. Visualize the data using a candlestick chart with the moving average overlayed.
 
 ## Setup
