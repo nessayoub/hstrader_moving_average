@@ -22,28 +22,3 @@ A moving average (MA) is a widely used indicator in technical analysis that help
 ### What Does a Moving Average Represent?
 
 A moving average represents the average price of a security over a specified period. For example, a 10-day moving average is the average closing price over the last 10 days. It provides a lagging indicator, meaning it is based on past prices, which can help traders confirm trends and make trading decisions based on historical price movements.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Setup](#setup)
-- [Usage](#usage)
-
-## Introduction
-
-The purpose of this notebook is to:
-
-1. Calculate the moving average of the 'close' and 'open' prices in a given dataset using the `HsTrader` library.
-2. Visualize the data using a candlestick chart with the moving average overlayed.
-
-## Setup
-
-To run this notebook, you need to have Python and Jupyter Notebook installed on your system. You also need to install the required Python packages.
-
-## Usage
-
-1. Open the `moving_average.ipynb` notebook in Jupyter Notebook.
-2. Run the cells sequentially to:
-   - Generate a sample dataset.
-   - Calculate the moving average for the 'close' prices using `HsTrader`.
-   - Visualize the dataset using a candlestick chart with Plotly, including the moving average.
